@@ -18,3 +18,15 @@
 сроки
 28 апреля прислать результат
 29 апреля созвон
+
+Программы для расчета освещения
+AGi32
+Autodesk VIZ 2005
+DIALux 4.1
+LightScape 3.2
+Lumen Micro 2000
+Lumen Designer
+SuperLite 2.0
+Radiance 3.7.2
+Relux 2005
+Inspirer
